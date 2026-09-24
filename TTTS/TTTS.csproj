@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.0.3.0</Version>
+    <!-- Manifest fields (see https://github.com/goatcorp/DalamudPackager/blob/827d88dc/DalamudPackager/DalamudPackager.cs#L420) -->
+    <Author>OniTurtle</Author>
+    <Name>TTTS</Name>
+    <Punchline>Its ya boy</Punchline>
+    <Description>Its ya boy</Description>
+    <RepoUrl>https://github.com/dev997/TTTS</RepoUrl>
+    <Tags>Duplicate;Glamour</Tags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\Data\icon.png" Link="images\icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+    <Content Include="..\Data\tung.png" Link="Data\tung.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>false</Visible>
+    </Content>
+  </ItemGroup>
+</Project>

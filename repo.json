@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "OniTurtle",
+    "Name": "TTTS",
+    "Punchline": "Triple T",
+    "Description": "TUNG TUNG TUNG",
+    "InternalName": "TTTS",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/dev997/TTTS",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "DownloadLinkInstall": "https://github.com/dev997/TTTS/releases/download/0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/dev997/TTTS/releases/download/0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/dev997/TTTS/releases/download/0.0.1/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/dev997/TTTS/main/Data/icon.png",
+    "Tags": [
+      "Duplicate", "Glamour"
+    ]
+  }
+]
